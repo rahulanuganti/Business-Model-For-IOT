@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "name": "Nest Learning Thermostat",
+      "image": "1.jpg",
+      "uses": "Temperature control",
+      "benefits": "Energy savings, convenience",
+      "functionality": "Automatically adjusts the temperature based on preferences and habits, remote control via smartphone app, learns schedule, provides energy reports.",
+      "key_features": ["Auto-schedule", "Remote control", "Energy history", "Home/Away Assist", "Farsight"]
+    },
+    {
+      "id": 2,
+      "name": "Smart Lock Pro",
+      "uses": "Door security",
+      "benefits": "Keyless entry, remote access, enhanced security",
+      "functionality": "Allows remote locking/unlocking of the door, keyless entry, grants temporary access, integrates with other smart devices, voice control.",
+      "key_features": ["Auto-lock/unlock", "DoorSense", "Activity feed", "Guest access", "Voice control"]
+    },
+    {
+      "id": 3,
+      "name": "Ring Video Doorbell",
+      "uses": "Visitor monitoring",
+      "benefits": "Enhanced security, remote monitoring, communication with visitors",
+      "functionality": "Streams live video, records footage, provides motion alerts, two-way communication with visitors via smartphone app.",
+      "key_features": ["1080p HD video", "Two-way talk", "Motion detection", "Night vision", "Remote access"]
+    },
+    {
+      "id": 4,
+      "name": "Philips Hue",
+      "uses": "Lighting control",
+      "benefits": "Energy savings, convenience, ambiance creation",
+      "functionality": "Remote control to turn on/off, dim, change colors, supports scheduling and automation, integrates with voice assistants and other smart devices.",
+      "key_features": ["16 million colors", "Voice control", "Scheduling", "Geofencing", "Dimming"]
+    },
+    {
+      "id": 5,
+      "name": "Arlo Pro 3",
+      "uses": "Home security",
+      "benefits": "Enhanced security, remote monitoring",
+      "functionality": "Provides live video streaming, records footage, features night vision, motion detection, two-way audio, remote access via smartphone app.",
+      "key_features": ["2K HDR video", "Color night vision", "160-degree view", "Integrated spotlight", "Siren"]
+    },
+    {
+      "id": 6,
+      "name": "TP-Link Kasa Smart Plug",
+      "uses": "Appliance control",
+      "benefits": "Convenience, energy savings",
+      "functionality": "Turns traditional appliances into smart devices, remote control to turn appliances on/off, supports scheduling and automation, integrates with voice assistants.",
+      "key_features": ["Voice control", "Scheduling", "Away mode", "Energy monitoring", "Compact design"]
+    },
+    {
+      "id": 7,
+      "name": "Amazon Echo",
+      "uses": "Voice assistant",
+      "benefits": "Convenience, centralized control of smart devices",
+      "functionality": "Acts as a hub for controlling other smart home devices via voice commands, provides information, plays music, sets reminders, integrates with various smart home systems.",
+      "key_features": ["Alexa voice control", "Smart home hub", "Music streaming", "Skills and routines", "Hands-free calling"]
+    },
+    {
+      "id": 8,
+      "name": "Nest Protect",
+      "uses": "Smoke and CO detection",
+      "benefits": "Enhanced safety, early alerts",
+      "functionality": "Detects smoke and carbon monoxide, provides alerts to your smartphone, offers voice alarms specifying the type of danger and location, regularly tests itself, has a long-lasting battery.",
+      "key_features": ["Split-Spectrum Sensor", "Self-testing", "Voice alarms", "App alerts", "Pathlight"]
+    },
+    {
+      "id": 9,
+      "name": "Samsung Family Hub",
+      "uses": "Refrigeration and kitchen management",
+      "benefits": "Convenience, efficient kitchen management",
+      "functionality": "Features a touchscreen interface with apps for managing groceries and recipes, streams music, displays calendars, connects to other smart devices, includes internal cameras to check contents remotely.",
+      "key_features": ["Touchscreen display", "Internal cameras", "Recipe suggestions", "Calendar integration", "Voice control"]
+    },
+    {
+      "id": 10,
+      "name": "iRobot Roomba i7+",
+      "uses": "Automated vacuuming",
+      "benefits": "Convenience, time-saving, efficient cleaning",
+      "functionality": "Automatically vacuums your home, maps out the area, can be controlled via a smartphone app, supports scheduling, can empty its own dustbin, integrates with other smart home devices for coordinated cleaning.",
+      "key_features": ["Self-emptying bin", "Smart mapping", "Powerful suction", "Voice control", "Automatic recharging"]
+    }
+  ]
+  

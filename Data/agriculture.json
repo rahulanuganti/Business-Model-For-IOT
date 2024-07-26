@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "John Deere Precision Ag",
+      "uses": "Precision farming",
+      "benefits": "Increased yield, reduced costs, optimized resource usage",
+      "functionality": "Provides real-time data on soil conditions, weather, and crop health, allows precise control of planting, fertilizing, and harvesting operations.",
+      "key_features": ["Soil moisture sensors", "Weather data integration", "Yield mapping", "Variable rate technology", "Autonomous machinery"]
+    },
+    {
+      "id": 2,
+      "name": "CropX",
+      "uses": "Soil monitoring",
+      "benefits": "Improved irrigation efficiency, better crop health, water conservation",
+      "functionality": "Monitors soil moisture, temperature, and electrical conductivity, provides real-time data to optimize irrigation schedules.",
+      "key_features": ["Soil sensors", "Real-time data", "Irrigation recommendations", "Mobile app", "Cloud-based analytics"]
+    },
+    {
+      "id": 3,
+      "name": "DroneDeploy",
+      "uses": "Aerial crop monitoring",
+      "benefits": "Accurate crop health assessment, early pest detection, optimized crop management",
+      "functionality": "Uses drones to capture high-resolution aerial images, analyzes data to assess crop health and identify issues.",
+      "key_features": ["High-resolution imagery", "NDVI mapping", "Pest detection", "Field analysis", "Cloud-based platform"]
+    },
+    {
+      "id": 4,
+      "name": "AgroBot",
+      "uses": "Automated harvesting",
+      "benefits": "Labor savings, increased harvesting efficiency, reduced crop damage",
+      "functionality": "Autonomous robots that harvest crops, equipped with sensors and cameras to identify and pick ripe produce.",
+      "key_features": ["Autonomous navigation", "Vision systems", "Sensor-based ripeness detection", "Precision picking", "Data collection"]
+    },
+    {
+      "id": 5,
+      "name": "FarmBot",
+      "uses": "Automated farming",
+      "benefits": "Increased efficiency, reduced labor costs, precise control over planting and watering",
+      "functionality": "Automated machine that plants, waters, and monitors crops, customizable for different types of plants.",
+      "key_features": ["Precision planting", "Automated watering", "Soil sensors", "Open-source software", "Remote control"]
+    },
+    {
+      "id": 6,
+      "name": "SenseFly eBee X",
+      "uses": "Aerial surveying",
+      "benefits": "High-precision mapping, large area coverage, time and cost savings",
+      "functionality": "Fixed-wing drone that captures high-resolution aerial images for mapping and analysis of large agricultural areas.",
+      "key_features": ["High-resolution camera", "Long flight time", "RTK/PPK accuracy", "Seamless integration", "Robust design"]
+    },
+    {
+      "id": 7,
+      "name": "Smart Ag",
+      "uses": "Autonomous tractor control",
+      "benefits": "Labor savings, increased operational efficiency, precise farming operations",
+      "functionality": "Autonomous control systems for tractors, enabling driverless operation for planting, tilling, and harvesting.",
+      "key_features": ["Autonomous guidance", "Precision control", "Remote monitoring", "Compatibility with existing tractors", "Safety systems"]
+    },
+    {
+      "id": 8,
+      "name": "Prospera",
+      "uses": "Crop monitoring and analysis",
+      "benefits": "Improved crop health, optimized resource use, early issue detection",
+      "functionality": "Uses sensors and AI to monitor crop health, detect pests and diseases, and provide actionable insights.",
+      "key_features": ["AI-powered analytics", "Real-time monitoring", "Pest and disease detection", "Customizable alerts", "Mobile app"]
+    },
+    {
+      "id": 9,
+      "name": "Moocall",
+      "uses": "Livestock monitoring",
+      "benefits": "Improved animal health, reduced labor, early issue detection",
+      "functionality": "Monitors the health and activity of livestock using sensors, provides real-time alerts for calving and health issues.",
+      "key_features": ["Health monitoring sensors", "Calving alerts", "Real-time data", "Mobile app", "Easy installation"]
+    },
+    {
+      "id": 10,
+      "name": "Smart Irrigation Controllers",
+      "uses": "Irrigation management",
+      "benefits": "Water conservation, improved crop health, reduced costs",
+      "functionality": "Automates irrigation schedules based on soil moisture, weather data, and crop needs, remotely controlled via app.",
+      "key_features": ["Soil moisture sensors", "Weather data integration", "Remote control", "Customizable schedules", "Water usage reports"]
+    }
+  ]
+  

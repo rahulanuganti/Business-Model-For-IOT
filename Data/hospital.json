@@ -1,0 +1,83 @@
+[
+    {
+      "id": 1,
+      "name": "FLIR Systems",
+      "uses": "Thermal imaging",
+      "benefits": "Enhanced situational awareness, night vision capabilities",
+      "functionality": "Provides thermal imaging for surveillance and reconnaissance, detecting heat signatures in various environments.",
+      "key_features": ["Long-range detection", "Real-time video feed", "Compact design", "Weather-resistant", "Integration with drones"]
+    },
+    {
+      "id": 2,
+      "name": "DroneX",
+      "uses": "Surveillance and reconnaissance",
+      "benefits": "Real-time intelligence, reduced risk to personnel",
+      "functionality": "Unmanned aerial vehicle (UAV) equipped with cameras and sensors for gathering intelligence and monitoring activities.",
+      "key_features": ["High-definition cameras", "Live streaming", "GPS navigation", "Autonomous flight", "Durable construction"]
+    },
+    {
+      "id": 3,
+      "name": "Sentinel 1000",
+      "uses": "Border security",
+      "benefits": "Increased perimeter security, real-time alerts",
+      "functionality": "Uses sensors and cameras for monitoring borders and sensitive areas, providing alerts for unauthorized entries.",
+      "key_features": ["Motion detection", "Infrared sensors", "Remote monitoring", "24/7 surveillance", "Integration with security systems"]
+    },
+    {
+      "id": 4,
+      "name": "Tactical Edge Solutions",
+      "uses": "Mobile command and control",
+      "benefits": "Improved decision-making, enhanced communication",
+      "functionality": "Mobile platform for coordinating operations, sharing intelligence, and real-time communication among units.",
+      "key_features": ["Real-time data sharing", "Secure communications", "Mobile deployment", "Customizable interfaces", "Integration with field devices"]
+    },
+    {
+      "id": 5,
+      "name": "Raven",
+      "uses": "Unmanned ground vehicle",
+      "benefits": "Remote operation, risk reduction in hazardous environments",
+      "functionality": "Robotic vehicle for surveillance, reconnaissance, and logistics support, operated remotely to perform various tasks.",
+      "key_features": ["All-terrain capabilities", "Camera and sensor integration", "Remote control", "Modular design", "Payload capacity"]
+    },
+    {
+      "id": 6,
+      "name": "ShotSpotter",
+      "uses": "Gunfire detection",
+      "benefits": "Rapid response, improved situational awareness",
+      "functionality": "Acoustic sensor network that detects and locates gunfire, providing real-time alerts to law enforcement and military.",
+      "key_features": ["Real-time alerts", "Precise location tracking", "Data analytics", "Integration with command centers", "Scalability"]
+    },
+    {
+      "id": 7,
+      "name": "Smart Sensors for Battlefield Monitoring",
+      "uses": "Environmental monitoring",
+      "benefits": "Enhanced situational awareness, data-driven decision-making",
+      "functionality": "Sensors deployed in the field to monitor environmental conditions, troop movements, and potential threats.",
+      "key_features": ["Real-time data collection", "Multi-sensor integration", "Remote access", "Durable and weather-resistant", "Battery-operated"]
+    },
+    {
+      "id": 8,
+      "name": "Cybersecurity IoT Solutions",
+      "uses": "Network security",
+      "benefits": "Protection against cyber threats, data integrity",
+      "functionality": "IoT devices equipped with cybersecurity measures to protect military networks and data from cyber attacks.",
+      "key_features": ["Real-time threat detection", "Data encryption", "Secure communication protocols", "User authentication", "Incident response capabilities"]
+    },
+    {
+      "id": 9,
+      "name": "Portable Medical Diagnostics",
+      "uses": "Field medical assessments",
+      "benefits": "Rapid medical evaluation, improved care in the field",
+      "functionality": "Portable devices for diagnosing injuries and illnesses in the field, transmitting data to medical personnel.",
+      "key_features": ["Wireless connectivity", "Real-time diagnostics", "Data sharing with medical teams", "Durable design", "User-friendly interface"]
+    },
+    {
+      "id": 10,
+      "name": "Smart Wearable Tech",
+      "uses": "Troop health monitoring",
+      "benefits": "Improved health tracking, real-time data on troop conditions",
+      "functionality": "Wearable devices that monitor vital signs, fatigue levels, and environmental conditions for soldiers in the field.",
+      "key_features": ["Heart rate monitoring", "GPS tracking", "Data analytics", "Durable and lightweight", "Real-time alerts"]
+    }
+  ]
+  
