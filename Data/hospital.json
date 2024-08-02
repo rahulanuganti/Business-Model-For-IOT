@@ -1,83 +1,82 @@
 [
-    {
-      "id": 1,
-      "name": "FLIR Systems",
-      "uses": "Thermal imaging",
-      "benefits": "Enhanced situational awareness, night vision capabilities",
-      "functionality": "Provides thermal imaging for surveillance and reconnaissance, detecting heat signatures in various environments.",
-      "key_features": ["Long-range detection", "Real-time video feed", "Compact design", "Weather-resistant", "Integration with drones"]
-    },
-    {
-      "id": 2,
-      "name": "DroneX",
-      "uses": "Surveillance and reconnaissance",
-      "benefits": "Real-time intelligence, reduced risk to personnel",
-      "functionality": "Unmanned aerial vehicle (UAV) equipped with cameras and sensors for gathering intelligence and monitoring activities.",
-      "key_features": ["High-definition cameras", "Live streaming", "GPS navigation", "Autonomous flight", "Durable construction"]
-    },
-    {
-      "id": 3,
-      "name": "Sentinel 1000",
-      "uses": "Border security",
-      "benefits": "Increased perimeter security, real-time alerts",
-      "functionality": "Uses sensors and cameras for monitoring borders and sensitive areas, providing alerts for unauthorized entries.",
-      "key_features": ["Motion detection", "Infrared sensors", "Remote monitoring", "24/7 surveillance", "Integration with security systems"]
-    },
-    {
-      "id": 4,
-      "name": "Tactical Edge Solutions",
-      "uses": "Mobile command and control",
-      "benefits": "Improved decision-making, enhanced communication",
-      "functionality": "Mobile platform for coordinating operations, sharing intelligence, and real-time communication among units.",
-      "key_features": ["Real-time data sharing", "Secure communications", "Mobile deployment", "Customizable interfaces", "Integration with field devices"]
-    },
-    {
-      "id": 5,
-      "name": "Raven",
-      "uses": "Unmanned ground vehicle",
-      "benefits": "Remote operation, risk reduction in hazardous environments",
-      "functionality": "Robotic vehicle for surveillance, reconnaissance, and logistics support, operated remotely to perform various tasks.",
-      "key_features": ["All-terrain capabilities", "Camera and sensor integration", "Remote control", "Modular design", "Payload capacity"]
-    },
-    {
-      "id": 6,
-      "name": "ShotSpotter",
-      "uses": "Gunfire detection",
-      "benefits": "Rapid response, improved situational awareness",
-      "functionality": "Acoustic sensor network that detects and locates gunfire, providing real-time alerts to law enforcement and military.",
-      "key_features": ["Real-time alerts", "Precise location tracking", "Data analytics", "Integration with command centers", "Scalability"]
-    },
-    {
-      "id": 7,
-      "name": "Smart Sensors for Battlefield Monitoring",
-      "uses": "Environmental monitoring",
-      "benefits": "Enhanced situational awareness, data-driven decision-making",
-      "functionality": "Sensors deployed in the field to monitor environmental conditions, troop movements, and potential threats.",
-      "key_features": ["Real-time data collection", "Multi-sensor integration", "Remote access", "Durable and weather-resistant", "Battery-operated"]
-    },
-    {
-      "id": 8,
-      "name": "Cybersecurity IoT Solutions",
-      "uses": "Network security",
-      "benefits": "Protection against cyber threats, data integrity",
-      "functionality": "IoT devices equipped with cybersecurity measures to protect military networks and data from cyber attacks.",
-      "key_features": ["Real-time threat detection", "Data encryption", "Secure communication protocols", "User authentication", "Incident response capabilities"]
-    },
-    {
-      "id": 9,
-      "name": "Portable Medical Diagnostics",
-      "uses": "Field medical assessments",
-      "benefits": "Rapid medical evaluation, improved care in the field",
-      "functionality": "Portable devices for diagnosing injuries and illnesses in the field, transmitting data to medical personnel.",
-      "key_features": ["Wireless connectivity", "Real-time diagnostics", "Data sharing with medical teams", "Durable design", "User-friendly interface"]
-    },
-    {
-      "id": 10,
-      "name": "Smart Wearable Tech",
-      "uses": "Troop health monitoring",
-      "benefits": "Improved health tracking, real-time data on troop conditions",
-      "functionality": "Wearable devices that monitor vital signs, fatigue levels, and environmental conditions for soldiers in the field.",
-      "key_features": ["Heart rate monitoring", "GPS tracking", "Data analytics", "Durable and lightweight", "Real-time alerts"]
-    }
-  ]
-  
+  {
+    "id": 1,
+    "name": "Remote Patient Monitoring Systems",
+    "uses": "Continuous health monitoring",
+    "benefits": "Early detection of health issues, reduced hospital readmissions",
+    "functionality": "Monitors vital signs such as heart rate, blood pressure, and oxygen levels, transmitting data to healthcare providers.",
+    "key_features": ["Real-time data transmission", "Mobile app integration", "Alerts for abnormal readings", "Wearable devices", "Data analytics"]
+  },
+  {
+    "id": 2,
+    "name": "Smart Infusion Pumps",
+    "uses": "Medication administration",
+    "benefits": "Improved accuracy, reduced medication errors",
+    "functionality": "Delivers precise dosages of medication and fluids, can be programmed remotely and monitored in real-time.",
+    "key_features": ["Automated dosing", "Remote monitoring", "User-friendly interface", "Integration with EMR systems", "Alerts for anomalies"]
+  },
+  {
+    "id": 3,
+    "name": "Smart Beds",
+    "uses": "Patient comfort and monitoring",
+    "benefits": "Improved patient care, enhanced safety",
+    "functionality": "Adjustable beds that monitor patient movement, pressure, and vital signs, providing alerts for potential issues.",
+    "key_features": ["Pressure sensors", "Adjustable positioning", "Patient tracking", "Integration with hospital systems", "Remote adjustments"]
+  },
+  {
+    "id": 4,
+    "name": "Wearable Health Devices",
+    "uses": "Health tracking",
+    "benefits": "Continuous monitoring, patient empowerment",
+    "functionality": "Devices that track fitness metrics, heart rate, sleep patterns, and can share data with healthcare providers.",
+    "key_features": ["Heart rate monitoring", "Activity tracking", "Sleep analysis", "Data synchronization", "Alerts for irregularities"]
+  },
+  {
+    "id": 5,
+    "name": "Telemedicine Solutions",
+    "uses": "Remote consultations",
+    "benefits": "Increased access to care, reduced travel for patients",
+    "functionality": "Enables video consultations and remote evaluations between patients and healthcare providers.",
+    "key_features": ["Video conferencing", "Secure messaging", "Appointment scheduling", "EHR integration", "Patient education resources"]
+  },
+  {
+    "id": 6,
+    "name": "Environmental Monitoring Systems",
+    "uses": "Hospital environment control",
+    "benefits": "Improved infection control, enhanced patient comfort",
+    "functionality": "Monitors temperature, humidity, and air quality in hospital settings, ensuring optimal conditions.",
+    "key_features": ["Real-time data monitoring", "Alerts for deviations", "Integration with building management systems", "Mobile app access", "Data logging"]
+  },
+  {
+    "id": 7,
+    "name": "Asset Tracking Systems",
+    "uses": "Equipment management",
+    "benefits": "Reduced loss of equipment, improved utilization",
+    "functionality": "Tracks the location and usage of medical equipment using RFID or GPS technology.",
+    "key_features": ["Real-time location tracking", "Inventory management", "Alerts for misplaced items", "Mobile app integration", "Analytics on usage patterns"]
+  },
+  {
+    "id": 8,
+    "name": "Smart Pill Dispensers",
+    "uses": "Medication adherence",
+    "benefits": "Improved patient compliance, reduced medication errors",
+    "functionality": "Dispenses medications at scheduled times, provides alerts for missed doses, and tracks adherence.",
+    "key_features": ["Automated dispensing", "Mobile app alerts", "Adherence tracking", "Easy-to-use interface", "Remote monitoring"]
+  },
+  {
+    "id": 9,
+    "name": "Smart Surgical Instruments",
+    "uses": "Enhanced surgical precision",
+    "benefits": "Improved outcomes, reduced complications",
+    "functionality": "Connected surgical tools that provide real-time data and insights during procedures.",
+    "key_features": ["Real-time feedback", "Data analytics", "Integration with surgical systems", "Ergonomic design", "Wireless connectivity"]
+  },
+  {
+    "id": 10,
+    "name": "AI-Powered Diagnostic Tools",
+    "uses": "Disease detection and analysis",
+    "benefits": "Increased accuracy, faster diagnostics",
+    "functionality": "Utilizes machine learning algorithms to analyze medical images and data, assisting in diagnostics.",
+    "key_features": ["Image recognition", "Data analysis", "Integration with EMR systems", "Continuous learning algorithms", "User-friendly interface"]
+  }
+]

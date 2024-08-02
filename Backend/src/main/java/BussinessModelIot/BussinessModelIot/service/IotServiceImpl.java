@@ -21,7 +21,7 @@ public class IotServiceImpl implements IotService{
     IotProductRepository iotProductRepository;
     @Override
     public IotModels addProduct(MultipartFile file, String name, String description, double rating, String category)throws SQLException, IOException {
-        IotModels iotProduct=new IotModels();
+        IotModels iotProduct = new IotModels();
         iotProduct.setName(name);
         iotProduct.setDescription(description);
         iotProduct.setRating(rating);

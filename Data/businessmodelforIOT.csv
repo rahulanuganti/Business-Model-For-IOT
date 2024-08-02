@@ -1,0 +1,26 @@
+id,category,description,name,photo,rating
+1,"Smart Home","
+Automatically adjusts the temperature based on preferences and habits, remote control via smartphone app, learns schedule, provides energy reports.","Nest Learning Thermostat",...,5
+2,Agriculture,"Provides real-time data on soil conditions, weather, and crop health, allows precise control of planting, fertilizing, and harvesting operations.","John Deere Precision Ag",...,5
+3,"Smart Home","Allows remote locking/unlocking of the door, keyless entry, grants temporary access, integrates with other smart devices, voice control.","Smart Lock Pro",...,4
+152,"Smart Home","Provides live video streaming, records footage, features night vision, motion detection, two-way audio, remote access via smartphone app.","Arlo Pro 3",...,4.5
+154,"Smart Home","Turns traditional appliances into smart devices, remote control to turn appliances on/off, supports scheduling and automation, integrates with voice assistants.","TP-Link Kasa Smart Plug",...,4.5
+155,Agriculture,"Provides real-time data on soil conditions, weather, and crop health, allows precise control of planting, fertilizing, and harvesting operations.","John Deere Precision Ag",...,4.8
+156,Agriculture,"Monitors soil moisture, temperature, and electrical conductivity, provides real-time data to optimize irrigation schedules.",CropX,...,3.8
+157,Agriculture,"Autonomous robots that harvest crops, equipped with sensors and cameras to identify and pick ripe produce.",AgroBot,...,3.9
+158,Agriculture,"Automated machine that plants, waters, and monitors crops, customizable for different types of plants.",FarmBot,...,4.2
+159,Defense,"Provides thermal imaging for surveillance and reconnaissance, detecting heat signatures in various environments.","FLIR Systems",...,5
+160,Defense,"Unmanned aerial vehicle (UAV) equipped with cameras and sensors for gathering intelligence and monitoring activities.",DroneX,...,4
+161,Defense,"Uses sensors and cameras for monitoring borders and sensitive areas, providing alerts for unauthorized entries.","Sentinel 1000",...,4.2
+162,Defense,"Mobile platform for coordinating operations, sharing intelligence, and real-time communication among units.","Tactical Edge Solutions",...,5
+163,Defense,"Robotic vehicle for surveillance, reconnaissance, and logistics support, operated remotely to perform various tasks.",Raven,...,4
+164,Hospital,"Monitors vital signs such as heart rate, blood pressure, and oxygen levels, transmitting data to healthcare providers.","Remote Patient Monitoring Systems",...,4.5
+165,Hospital,"Adjustable beds that monitor patient movement, pressure, and vital signs, providing alerts for potential issues","Smart Beds",...,5
+166,Hospital,"Devices that track fitness metrics, heart rate, sleep patterns, and can share data with healthcare providers","Wearable Health Devices",...,4
+167,Hospital,"Enables video consultations and remote evaluations between patients and healthcare providers","Telemedicine Solutions",...,3.5
+168,Hospital,"Delivers precise dosages of medication and fluids, can be programmed remotely and monitored in real-time","Smart Infusion Pumps",...,4.5
+169,Industrial,"Monitors equipment conditions such as temperature, vibration, and pressure, providing real-time data for predictive maintenance.","Condition monitoring",...,5
+170,Industrial,"Integrates data from various machines to optimize production processes, monitor performance, and reduce waste.","Smart Manufacturing Platforms",...,4
+171,Industrial,"Tracks the location and usage of industrial assets using RFID or GPS technology, providing visibility into inventory levels.","Asset Tracking Solutions",...,4.5
+172,Industrial,"Monitors and optimizes energy consumption across industrial operations, providing insights for energy-saving initiatives.","Smart Energy Management Systems",...,5
+173,Industrial,"Analyzes data from machines to predict failures before they occur, enabling proactive maintenance scheduling.","Predictive Maintenance Solutions",...,3.5
