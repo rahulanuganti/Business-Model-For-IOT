@@ -1,0 +1,32 @@
+.main {
+    margin: 20px;
+    max-width: auto;
+    padding: 20px;
+    
+    border-radius: 8px;
+    background-color: #f8f8f8;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .use {
+    display: flex;
+    justify-content: space-between; /* Adjust alignment as needed */
+    margin-top: 50px;
+    padding: 20px; /* Add padding to adjust spacing */
+  }
+  
+  .workSection {
+    flex: 1;
+    padding: 20px;
+    border: 1px solid #ccc;
+    text-align: center;
+    /* height: 100%; */
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    text-align: left;
+    margin: 0 10px; 
+    width: 250px;
+    /* max-width: 300px;  */
+  }
+  

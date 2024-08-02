@@ -1,0 +1,25 @@
+/* Description.module.css */
+.description {
+  margin: 20px 0;
+  text-align: center; /* Align text and image to center */
+  margin-left: 40px;
+}
+
+.description h1 {
+  font-size: 28px; /* Example font size */
+  margin-bottom: 10px; /* Adjust as needed */
+}
+
+.description p {
+  font-size: 18px;
+  line-height: 1.6; /* Adjust line height for readability */
+  color: #666; /* Example text color */
+  margin-left: 40px;
+  margin-right: 30px;
+  text-align: left;
+}
+.description img{
+  margin-top: 40px;
+  margin-bottom: 40px;
+  width: 100vh;
+}

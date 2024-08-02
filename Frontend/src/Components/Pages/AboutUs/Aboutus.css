@@ -1,0 +1,38 @@
+/* src/Components/AboutUs.css */
+.about-us {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about-us h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .about-us section {
+    margin-bottom: 40px;
+  }
+  
+  .about-us .team-member {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .about-us .team-member h3 {
+    margin: 0;
+    margin-right: 10px;
+  }
+  
+  .about-us blockquote {
+    border-left: 4px solid #ccc;
+    margin: 20px;
+    padding-left: 16px;
+    font-style: italic;
+  }
+  
+  .about-us .contact-info p {
+    margin: 5px 0;
+  }
+  

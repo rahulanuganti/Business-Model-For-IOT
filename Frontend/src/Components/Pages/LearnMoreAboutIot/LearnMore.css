@@ -1,0 +1,52 @@
+/* src/Components/LearnMoreAboutIoT.css */
+.learn-more-about-iot {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .learn-more-about-iot h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .learn-more-about-iot section {
+    margin-bottom: 40px;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .learn-more-about-iot h2 {
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .learn-more-about-iot .section-image {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  
+  .learn-more-about-iot ul {
+    list-style-type: disc;
+    margin-left: 20px;
+  }
+  
+  .learn-more-about-iot ul li {
+    margin-bottom: 10px;
+  }
+  
+  .learn-more-about-iot p {
+    margin-bottom: 10px;
+  }
+  
+  .learn-more-about-iot img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+  

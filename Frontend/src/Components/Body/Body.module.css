@@ -1,0 +1,27 @@
+.body-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Align buttons to the left */
+    padding: 2rem;
+    gap: 1rem;
+    margin-left: 30px;
+  }
+  
+  .small-button {
+    width: 100%; /* Smaller width */
+    padding: 0.3rem; /* Less padding */
+    border: none;
+    cursor: pointer;
+    font-size: 1rem; /* Smaller font size */
+    font-weight: bold;
+    border-radius: 4px;
+    background-color: white; /* Light blue color */
+    color: #333;
+    transition: background-color 0.3s ease;
+    text-align: left;
+  }
+  
+  .small-button:hover {
+    background-color: #99ceff; /* Slightly darker light blue on hover */
+  }
+  
